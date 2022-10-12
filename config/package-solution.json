@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cicd-project-client-side-solution",
+    "id": "a880f4e2-764f-433d-9569-57c7a64fbf7f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "cicd-project description"
+      },
+      "longDescription": {
+        "default": "cicd-project description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "cicd-project Feature",
+        "description": "The feature that activates elements of the cicd-project solution.",
+        "id": "f2f5e4c5-fb2f-44a7-8c16-20aa9ffc6dc8",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/cicd-project.sppkg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "cicd-project",
+    "libraryId": "a880f4e2-764f-433d-9569-57c7a64fbf7f",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "cicd-project",
+    "solutionShortDescription": "cicd-project description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
